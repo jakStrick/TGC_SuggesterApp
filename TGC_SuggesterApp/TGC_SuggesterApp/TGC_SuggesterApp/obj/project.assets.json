@@ -1876,11 +1876,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj",
+      "projectUniqueName": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TCG_SuggesterApp.csproj",
       "projectName": "TGC_ConjectureSuggesterApp",
-      "projectPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj",
+      "projectPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TCG_SuggesterApp.csproj",
       "packagesPath": "C:\\Users\\dvdst\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\obj\\",
+      "outputPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

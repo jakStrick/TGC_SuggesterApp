@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qxJsJpiX0tsrC/5OxzWjCvMjbSEZ+m9jx9HU6oKjwoAdrnFUAZ7HKwOPs/dX3G1dzCvyf5rX7zld2y+8EFj/Yg==",
+  "dgSpecHash": "ZNhfJcUAJOULGAS1spm9A3SLyGlxD9x/+92D/ZNC7mYEkLGyo/PWLNA5zQthOis4HIgftqudDNwK23ERuIndTg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj",
+  "projectFilePath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TCG_SuggesterApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dvdst\\.nuget\\packages\\azure.ai.openai\\1.0.0-beta.13\\azure.ai.openai.1.0.0-beta.13.nupkg.sha512",
     "C:\\Users\\dvdst\\.nuget\\packages\\azure.core\\1.37.0\\azure.core.1.37.0.nupkg.sha512",
