@@ -1,0 +1,10 @@
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.csproj.AssemblyReference.cache
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.Properties.Resources.resources
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.csproj.GenerateResource.cache
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.csproj.CoreCompileInputs.cache
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\bin\Debug\CosmicSocialStateApp.exe.config
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\bin\Debug\CosmicSocialStateApp.exe
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\bin\Debug\CosmicSocialStateApp.pdb
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.exe
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.pdb
+C:\Users\dvdst\OneDrive\Documents\Visual Studio 2022\Projects\StepperSimulator\EloquentJavaScriptTests\CosmicSocialStateApp\CosmicSocialStateApp\obj\Debug\CosmicSocialStateApp.FormCosmicSocialDecoder.resources

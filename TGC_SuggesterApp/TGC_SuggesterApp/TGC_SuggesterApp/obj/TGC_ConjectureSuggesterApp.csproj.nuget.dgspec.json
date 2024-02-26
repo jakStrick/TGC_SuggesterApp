@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj",
+        "projectName": "TGC_ConjectureSuggesterApp",
+        "projectPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSuggesterApp.csproj",
+        "packagesPath": "C:\\Users\\dvdst\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_ConjectureSeggesterApp\\TGC_ConjectureSeggesterApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dvdst\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Azure.AI.OpenAI": {
+              "target": "Package",
+              "version": "[1.0.0-beta.13, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
