@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TGC_SuggesterApp/TGC_SuggesterApp/TGC_SuggesterApp/bin/Debug/env.json
