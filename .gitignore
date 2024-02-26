@@ -403,3 +403,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/TGC_SuggesterApp/TGC_SuggesterApp/.vs/TCG_SuggesterApp/v17/.suo
