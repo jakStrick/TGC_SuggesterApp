@@ -8,7 +8,7 @@
       "version": "1.0.0",
       "restore": {
         "projectUniqueName": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TCG_SuggesterApp.csproj",
-        "projectName": "TGC_ConjectureSuggesterApp",
+        "projectName": "TGC_SuggesterApp",
         "projectPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TCG_SuggesterApp.csproj",
         "packagesPath": "C:\\Users\\dvdst\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\dvdst\\Documents\\Visual Studio 2022\\Projects\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\obj\\",

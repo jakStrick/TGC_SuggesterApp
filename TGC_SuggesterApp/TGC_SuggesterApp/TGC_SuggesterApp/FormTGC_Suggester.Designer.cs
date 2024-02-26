@@ -62,11 +62,11 @@
             // 
             // label2
             // 
-            this.label2.AutoSize = global::TGC_ConjectureSuggesterApp.Properties.Settings.Default.AutoFalse;
+            this.label2.AutoSize = global::TGC_SuggesterApp.Properties.Settings.Default.AutoFalse;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.label2.Cursor = System.Windows.Forms.Cursors.Cross;
-            this.label2.DataBindings.Add(new System.Windows.Forms.Binding("AutoSize", global::TGC_ConjectureSuggesterApp.Properties.Settings.Default, "AutoFalse", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
+            this.label2.DataBindings.Add(new System.Windows.Forms.Binding("AutoSize", global::TGC_SuggesterApp.Properties.Settings.Default, "AutoFalse", true, System.Windows.Forms.DataSourceUpdateMode.OnPropertyChanged));
             this.label2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.label2.Location = new System.Drawing.Point(607, 40);
             this.label2.Name = "label2";
@@ -200,7 +200,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::TGC_ConjectureSuggesterApp.Properties.Resources.background;
+            this.BackgroundImage = global::TGC_SuggesterApp.Properties.Resources.background;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(854, 609);
             this.Controls.Add(this.comboBox8);
