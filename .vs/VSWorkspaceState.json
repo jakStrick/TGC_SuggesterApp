@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\TGC_SuggesterApp",
+    "\\TGC_SuggesterApp\\TGC_SuggesterApp",
+    "\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp",
+    "\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\bin",
+    "\\TGC_SuggesterApp\\TGC_SuggesterApp\\TGC_SuggesterApp\\bin\\Debug"
   ],
   "PreviewInSolutionExplorer": false
 }
